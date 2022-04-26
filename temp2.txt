@@ -1,2 +1,3 @@
 This is github repository demo.
 Doing all the git stuff for learning purposes.
+Git and github are very powerfull tool!!!!
